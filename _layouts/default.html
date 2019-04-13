@@ -23,13 +23,7 @@
         </h1>
 
         <!-- NAVIGATION -->
-        <nav>
-          <ul>
-            {% for item in site.main %}
-              <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-            {% endfor %}
-          </ul>
-        </nav>
+        {% include navigation.html collection_index="main" %}
       </header>
     </div>
 
@@ -39,7 +33,7 @@
         {{ content }}
 
         {% if page.collection_index %}
-          {% include navigation.html %}
+          {% include navigation.html collection_index=page.collection_index collection_nolink=page.collection_nolink %}
         {% endif %}
       </section>
     </div>

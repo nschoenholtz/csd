@@ -1,6 +1,6 @@
 ---
-title: Characters
+title: Cast
 collection_index: "characters"
 ---
 
-## Characters
+## {{page.title}}

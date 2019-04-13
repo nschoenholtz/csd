@@ -42,9 +42,12 @@
         content: "☀";
         color: orange;
         font-size: 0.8em;
-        margin-left: 3px;
-        margin-right: 5px;
+        margin: 0 3px;
       }
     }
   }
+}
+
+.description::before {
+  content: " - ";
 }

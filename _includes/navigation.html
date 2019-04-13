@@ -1,13 +1,14 @@
 {% for collection in site.collections %}
-  {% if collection.label == page.collection_index %}
+  {% if collection.label == include.collection_index %}
     <nav>
       <ul>
         {% for item in collection.docs %}
           <li>
-            {% if page.collection_nolink %}
+            {% if include.collection_nolink %}
               {{ item.content | markdownify }}
             {% else %}
-              <a href="{{ item.url }}">{{ item.title }}</a> {{ item.description }}
+              <a href="{{ item.url }}">{{ item.title }}</a>
+              {% if item.description %}<span class="description">{{ item.description }}</span>{% endif %}
             {% endif %}
           </li>
         {% endfor %}

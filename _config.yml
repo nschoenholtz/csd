@@ -6,7 +6,11 @@ collections:
     output: true
   characters:
     output: true
+  npcs:
+    output: true
   locations:
+    output: true
+  sessions:
     output: true
   theories:
     output: false
