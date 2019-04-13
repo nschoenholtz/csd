@@ -37,6 +37,11 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
+        <ul>
+          {% for doc in site.docs %}
+            <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+          {% endfor %}
+        </ul>
         {% if site.github.is_project_page %}
         <p class="copyright">RPG Club \o/</p>
         {% endif %}
