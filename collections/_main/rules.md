@@ -6,12 +6,12 @@ title: Rules
 
 ### Experience
 
-At the end of each session, we'll answer the following questions for each character, adding Nxp for each one answered positively:
+At the end of each session, we'll answer the following questions for each character, adding 200xp for each one answered positively. Before level 4, each question may be counted only once, a maximum of 800xp per session. Thereafter, each question can be counted twice, a maximum of 1600xp per sessiom.
 
-* Did you acheive one of the group's or your own stated goals?
-* Did you express a unique aspect of your Class, Race, or Background?
-* Did you express your alignment in a way that complicated your life?
-* ...
+* **Goals**: Did you acheive one of the group's or your own stated goals?
+* **Heritage**: Did you express a unique aspect of your Class, Race, or Background?
+* **Motivation**: Did you express your Alignment in a way that made things more difficult for you?
+* **Themes**: Did you discover something long lost or overcome terrible danger?
 
 ### Episodic Play
 
