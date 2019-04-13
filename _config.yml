@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 title: Coral Sun Drifters
+collections_dir: collections
 collections:
   main:
     output: true
