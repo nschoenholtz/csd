@@ -1,3 +1,7 @@
+---
+title: Theories
+---
+
 ## Theories
 
 * Floating sky island, travel between is expensive creating cultural/class divide. Travel industry is booming. People have visions of people on other isles and believe they happen. Unique deities for areas. All people dream some cryptic Ragnarok dream. Island-edge rock climbing. The islands move, and space-continuum is broken at times.
