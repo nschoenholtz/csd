@@ -1,4 +1,8 @@
-## Coral Sun Drifters
+---
+title: Coral Sun Drifters
+---
+
+## Introduction
 
 The sun never blinks upon the city of Aynuk, jewel of Jazirat and first of the great migrant cities of the True God. All great deeds begin here, where the wise and brave congregate to seek their fortune. All travels end here, where the ministry of the Lighthouse keep its terrible glow alive. 
 
