@@ -1,0 +1,3 @@
+---
+---
+Long-distance travel is considered dangerous and "crazy" as you never know if you'll find your way back home. Some people live nomadic lifestyles (and usually have no religion). There's a myth of a monster out there that kills everyone if you go too far, though no one has seen it. Animals don't have trouble navigating between islands (like bird migration). Magic and tech helps with travel but still super risky. One common capital punishment is exiling people into the sky-sea. People fear (generally) other islands because of mystery and fear of the unknown. Tradition exists for people who leave: smash a mirror, and if you see the person who left in the reflection that means they will come back.

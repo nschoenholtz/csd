@@ -3,22 +3,26 @@
 
 @import "{{ site.theme }}";
 
-header {
+#header_wrap > header.inner {
+  padding: 20px 10px 20px 10px;
+
   a {
     color: white;
     text-decoration: underline;
   }
 
   h1 > a {
-    text-decoration: none;
+    &, &:hover {
+      text-decoration: none;
+      display: flex;
+    }
   }
 
   img {
-    vertical-align: middle;
     position: static;
     max-width: 739px;
     padding: 0;
-    margin: 0;
+    margin: 0 10px 0 0;
     border: 0;
     box-shadow: none;
     -webkit-box-shadow: none;
@@ -28,7 +32,19 @@ header {
   }
 
   nav > ul {
-    padding-left: 0;
+    margin: 0 0 0 65px;
     list-style: none;
+
+    & > li {
+      display: inline;
+
+      &:not(:first-child)::before {
+        content: "☀";
+        color: orange;
+        font-size: 0.8em;
+        margin-left: 3px;
+        margin-right: 5px;
+      }
+    }
   }
 }

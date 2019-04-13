@@ -25,8 +25,8 @@
         <!-- NAVIGATION -->
         <nav>
           <ul>
-            {% for page in site.main %}
-              <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+            {% for item in site.main %}
+              <li><a href="{{ item.url }}">{{ item.title }}</a></li>
             {% endfor %}
           </ul>
         </nav>
@@ -37,6 +37,10 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {{ content }}
+
+        {% if page.collection_index %}
+          {% include navigation.html %}
+        {% endif %}
       </section>
     </div>
 
