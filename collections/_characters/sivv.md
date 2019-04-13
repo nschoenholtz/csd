@@ -10,6 +10,8 @@ Somewhere amongst the islands filled with technological marvels, magical entitie
 
 This has made them an idol to the local populous of goblins, who have yet to embark to the islands that pass in the distance. Many birch trees have parts of their barked stripped off, and feature intricate sculptures and engravings depicting the birds. The goblins live in small but well-constructed wooden cabins in villages on the islands edge.
 
+![Goblins]({{ '/assets/images/' | append: 'sivv-goblins.png' | relative_url }})
+
 The goblins have never desired to leave, their isle offers them all they need, and unlike other races they do not perceive the dreaded orange and remain unaffected by the craze it caused. Some trade with the other islands does happen.
 Due to this they have yet to harness the powers of the soul garnets and it’s magic, as a side effect, their hunger for progression and power is subdued, leading them to become a near pacifist people, only striking when attacked. Any magic present is used to heal, or chase prey. 
 They rely on more practically engineered contraptions. Particularly of interest are their small sling-ships. These light wooden vessels mimic the wings of owls, allowing them to be slung into the air by a trebuchet, to then soar on the currents around for hours on end, often attached to the isle by rope in case the winds suddenly change. 
@@ -60,6 +62,8 @@ Instead of spiky iron shoulder pauldrons, Siv has shark jaws strapped to his sho
 His ears are pierced with a few iron rings, part of his left ear is missing.
 
 He's wearing a beanie that attempts to tame a wild mane of black-grey hair.
+
+![Weapon]({{ '/assets/images/' | append: 'sivv-weapon.png' | relative_url }})
 
 ### Fighting style: 
 Siv is fast and agile and uses this to manoeuvre across the battlefield to attack enemies that threaten his party, rather than chasing others on his own.
