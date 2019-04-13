@@ -1,5 +1,5 @@
 ---
-title: Coral Sun Drifters
+title: Home
 ---
 
 ## Introduction
