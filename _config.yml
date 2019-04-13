@@ -1,5 +1,11 @@
 theme: jekyll-theme-slate
 title: Coral Sun Drifters
 collections:
- main:
-   output: true
+  main:
+    output: true
+
+defaults:
+  scope:
+    path: ""
+  values:
+    layout: "default"
