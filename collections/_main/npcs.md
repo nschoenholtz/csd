@@ -1,6 +1,6 @@
 ---
-title: Side Chars
+title: Factions and NPCs
 collection_index: "npcs"
 ---
 
-## Side Characters and Factions
+## Factions and Side Characters
