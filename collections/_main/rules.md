@@ -8,7 +8,7 @@ title: Rules
 
 At the end of each session, we'll answer the following questions for each character, adding 200xp for each one answered positively. Before level 4, each question may be counted only once, a maximum of 800xp per session. Thereafter, each question can be counted twice, a maximum of 1600xp per sessiom.
 
-* **Goals**: Did you acheive one of the group's or your own stated goals?
+* **Goals**: Did you achieve one of the group's or your own stated goals?
 * **Heritage**: Did you express a unique aspect of your Class, Race, or Background?
 * **Motivation**: Did you express your Alignment in a way that made things more difficult for you?
 * **Themes**: Did you discover something long lost or overcome terrible danger? Did you uphold or overturn a [Theory]({{ '/main/theories.html' | relative_url }})?
@@ -21,12 +21,12 @@ With the potential for large groups, I think it will be helpful to streamline ce
 
 We are likely to be doing quite a lot of skill checks, especially when in larger groups where full out tactical combat would drag. I find skill checks to be more fun to play when there is more clarity up front about what is at stake and what the result of a roll will mean.
 
-* Try to declare up front what it is that your character is trying to acheive and how. For example, if you want to knock a guard out, it may still be important to your character not to harm them. In that case, a high roll should NOT do harm. In fact, it'd be more likely that a lower roll might cause harm as the complication (more on complications below).
+* Try to declare up front what it is that your character is trying to achieve and how. For example, if you want to knock a guard out, it may still be important to your character not to harm them. In that case, a high roll should NOT do harm. In fact, it'd be more likely that a lower roll might cause harm as the complication (more on complications below).
 * I do not adjust skill check Difficulty Classes. Rather, I'll lean heavily on advantage/disadvantage, less frequently on canceling out proficiencies, and finally hopefully more rarely on raw modifiers. Skill check rolls will always be evaluated on the following results (based around the "classic average" DC15):
   * Natural 20: You know what it means! Ideally everyone at the table will cheer.
   * Modified 19+: Success -- Things work out how your character intended, with no complications.
-  * Modified 15-18: Mixed Success -- Your character acheives their goal, but there's a complication.
-  * Modified 1-14: Failure -- Your character doesn't acheive their goal, or does so only at cost. Often I'll offer a choice!
+  * Modified 15-18: Mixed Success -- Your character achieves their goal, but there's a complication.
+  * Modified 1-14: Failure -- Your character doesn't achieve their goal, or does so only at cost. Often I'll offer a choice!
   * Natural 1: It is not good. Exception: if you end up with a modifier so high that a natural one is still 15+, it's still a success just with a nasty complication.
 * Background Proficiencies: It's already an optional (ie, DM fiat) rule that skill checks can be attempted using a different attribute modifier if justified appropriately in the narrative. In addition to that, I support the use of Background (and to a lesser degree Race and Class) as a proficiency in cases where it'd make sense.
 * Skill checks during combat: Skill checks usually will count as a main action during combat, but I definitely encourage their creative use. I allow all kinds of hijinks, as long as they are narratively justified and thematically appropriate. Environmental manipulation, trickery, etc... all make combat more interesting.
