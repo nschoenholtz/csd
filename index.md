@@ -16,3 +16,5 @@ To the patron who sponsors your airship, you are just one more bet in a long led
 <a href="{{ item.url }}">{{ item.title }}</a>
 {% if item.description %}<span class="description">{{ item.description }}</span>{% endif %}
 {% endif %}
+
+<a href="{{ '/assets/' | append: 'csd2.pdf' | relative_url }}">Latest Handout</a>
