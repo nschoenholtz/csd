@@ -6,7 +6,7 @@ title: Rules
 
 ### Experience
 
-At the end of each session, we'll answer the following questions for each character, adding 200xp for each one answered positively. Before level 4, each question may be counted only once, a maximum of 800xp per session. Thereafter, each question can be counted twice, a maximum of 1600xp per sessiom.
+At the end of each session, we'll answer the following questions for each character, adding 200xp for each one answered positively. Before level 4, each question may be counted only once, a maximum of 800xp per session. Thereafter, each question can be counted twice, a maximum of 1600xp per session. Whenever the average level of the party hits a new level, any lower levelled characters may raise the XP to the lowest total for that level immediately and level-up.
 
 * **Goals**: Did you achieve one of the group's or your own stated goals?
 * **Heritage**: Did you express a unique aspect of your Class, Race, or Background?
@@ -30,6 +30,10 @@ We are likely to be doing quite a lot of skill checks, especially when in larger
   * Natural 1: It is not good. Exception: if you end up with a modifier so high that a natural one is still 15+, it's still a success just with a nasty complication.
 * Background Proficiencies: It's already an optional (ie, DM fiat) rule that skill checks can be attempted using a different attribute modifier if justified appropriately in the narrative. In addition to that, I support the use of Background (and to a lesser degree Race and Class) as a proficiency in cases where it'd make sense.
 * Skill checks during combat: Skill checks usually will count as a main action during combat, but I definitely encourage their creative use. I allow all kinds of hijinks, as long as they are narratively justified and thematically appropriate. Environmental manipulation, trickery, etc... all make combat more interesting.
+
+#### Inspiration
+
+While great in spirit, the practice of rewarding great roleplay with inspiration is all too often forgotten. One way I like to improve that is providing rewards for roleplay in the XP triggers, and another is making inspiration easier to act on. At any time players may request to earn inspiration by recounting a tale or detail from their character's past. Imagine that it's a flashback to scene where the characters are sitting around the ship's mess, a tavern, campfire,, etc and getting to know each other. In the ideal case, the story from the past might relate to the present, but that's not a requirement. As long as the group agrees that the story is worth inspiration (usually yes unless you are trying to game the system!), inspiration is awarded -- and can be used immediately! That means if you fail a roll that's important to your character, you can immediately share more about your character with us for one more shot.
 
 #### Combat
 
