@@ -1,7 +1,7 @@
 ---
 title: Home
 level: 4
-xp: 4000
+xp: 4900
 levelup: 6500.00
 ---
 
