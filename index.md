@@ -13,6 +13,14 @@ Brought by visions of lost knowledge to be recovered, treasures to be won, trage
 
 To the patron who sponsors your airship, you are just one more bet in a long ledger. But they must have the blessing of the True God to wear the orange of the plutocracy -- surely you will benefit from their piety?
 
+### Schedule
+
+* Tuesday, 28 May
+* ??? maybe Wed or Thurs, 5/6 April
+* Tuesday, 11 April
+* Tuesday, 18 April
+* Tuesday, 25 April
+
 ### Party Level {{page.level}}
 {{page.xp}} / {{page.levelup | round}}xp
 <div class="progress">
