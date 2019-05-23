@@ -16,10 +16,10 @@ To the patron who sponsors your airship, you are just one more bet in a long led
 ### Schedule
 
 * Tuesday, 28 May
-* ??? maybe Wed or Thurs, 5/6 April
-* Tuesday, 11 April
-* Tuesday, 18 April
-* Tuesday, 25 April
+* ??? maybe Wed or Thurs, 5/6 June
+* Tuesday, 11 June
+* Tuesday, 18 June
+* Tuesday, 25 June
 
 ### Party Level {{page.level}}
 {{page.xp}} / {{page.levelup | round}}xp
