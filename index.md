@@ -2,6 +2,7 @@
 title: Home
 level: 5
 xp: 6500
+start: 6500
 levelup: 14000.00
 ---
 
@@ -23,7 +24,9 @@ To the patron who sponsors your airship, you are just one more bet in a long led
 ### Party Level {{page.level}}
 {{page.xp}} / {{page.levelup | round}}xp
 <div class="progress">
-    <span style="width: {{page.xp | divided_by: page.levelup | times: 100}}%"></span>
+    {% assign start = page.xp | minus: page.start %}
+    {% assign end = page.levelup | minus: page.start %}
+    <span style="width: {{start | divided_by: end | times: 100}}%"></span>
 </div>
 
 {% if site.sessions %}
