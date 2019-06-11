@@ -16,7 +16,6 @@ To the patron who sponsors your airship, you are just one more bet in a long led
 
 ### Schedule
 
-* Wednesday, 5 June
 * Tuesday, 11 June
 * Tuesday, 18 June
 * Tuesday, 25 June
