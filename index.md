@@ -16,9 +16,9 @@ To the patron who sponsors your airship, you are just one more bet in a long led
 
 ### Schedule
 
-* Tuesday, 11 June
 * Tuesday, 18 June
 * Tuesday, 25 June
+* July dates soon but mostly Tuesdays probably 🔆
 
 ### Party Level {{page.level}}
 {{page.xp}} / {{page.levelup | round}}xp
