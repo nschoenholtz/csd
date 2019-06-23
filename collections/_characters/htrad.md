@@ -4,3 +4,5 @@ description: Edgelord paladin, blades on blades on blades.
 ---
 
 ## {{page.title}}
+
+{{page.description}}
