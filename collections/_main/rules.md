@@ -44,6 +44,16 @@ Combat is rarely a goal in its own right in my games -- it should be a means to 
 * I don't tell explicit hit point counts, but will describe visible state (and asking about it is fine too).
 * I like to use the "Defense Roll" variant, where players roll with AC against a monster's attack DC, but haven't tried to use it with D&D Beyond generated character sheets before so I'm not sure about this one for now.
 
+#### Spotlight and Pitch
+
+Spotlighting just means trying to highlight the skills and/or themes of a certain character, and it's something I try to do organically as much as possible. It's a been a bit challenging sometimes though with a large group and I'd like to try out a new procedure to see if it helps.
+
+At the beginning of each session, anyone who wants to can offer a pitch for a PC to highlight and how. It doesn't have to be your own character, and you don't necessarily need to offer one every week. I'll always bring one pitch to the table just in case. Instead of voting on Rumors, we'll vote on a pitch and then see if any rumors support the pitch, or come up with a new scenario if not.
+
+Once a character has had an official spotlight, they can't be the focus again until everyone else has had a spotlight session.
+
+__Example pitch__: _I want to spotlight Drop, I'm interested in the ring artifacts from her dream, maybe we can investigate that pub in Aynuk where she had a vision of her mentor?_
+
 ### Episodic Play
 
 Taking influence from the West Marches style of campaign play, every individual session will begin and end in the same location (probably the party's airship?). A running list of potential goals will be maintained between sessions, and one of those goals will be selected by the players before each session.
