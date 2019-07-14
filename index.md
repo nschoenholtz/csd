@@ -16,12 +16,13 @@ To the patron who sponsors your airship, you are just one more bet in a long led
 
 ### Schedule
 
-* Tuesday, 25 June
-* _-- Off week --_
-* Tuesday, 9 July
 * Tuesday, 16 July
 * Tuesday, 23 July
 * Tuesday, 30 July
+* Tuesday, 6 August (off week?)
+* Tuesday, 13 August
+* Tuesday, 20 August
+* Tuesday, 27 August
 
 ### Party Level {{page.level}}
 {{page.xp}} / {{page.levelup | round}}xp
