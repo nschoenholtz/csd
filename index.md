@@ -16,7 +16,6 @@ To the patron who sponsors your airship, you are just one more bet in a long led
 
 ### Schedule
 
-* Tuesday, 16 July
 * Tuesday, 23 July
 * Tuesday, 30 July
 * Tuesday, 6 August (off week?)
