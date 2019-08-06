@@ -1,7 +1,7 @@
 ---
 title: Home
 level: 5
-xp: 8700
+xp: 10100
 start: 6500
 levelup: 14000.00
 ---
