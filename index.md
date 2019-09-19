@@ -1,9 +1,9 @@
 ---
 title: Home
-level: 5
-xp: 13100
-start: 6500
-levelup: 14000.00
+level: 6
+xp: 14000
+start: 14000.00
+levelup: 23000.00
 ---
 
 ## Introduction
