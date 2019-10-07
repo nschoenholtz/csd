@@ -16,7 +16,6 @@ To the patron who sponsors your airship, you are just one more bet in a long led
 
 ### Schedule
 
-* Tuesday, 1 October
 * Tuesday, 8 October
 * Tuesday, 15 October
 * Tuesday, 22 October
