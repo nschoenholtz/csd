@@ -3,6 +3,6 @@ title: Dr. Steiner
 description: Wow cool backpack, lady!
 ---
 
-# {{title}}
+# {{page.title}}
 
-{{description}}
+{{page.description}}
