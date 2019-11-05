@@ -16,9 +16,10 @@ To the patron who sponsors your airship, you are just one more bet in a long led
 
 ### Schedule
 
-* Tuesday, 15 October
-* Tuesday, 22 October
-* Tuesday, 29 October (maybe???)
+* Wednesday, 6 November
+* Tuesday, 12 November
+* Tuesday, 19 November
+* Tuesday, 26 November
 
 ### Party Level {{page.level}}
 {{page.xp}} / {{page.levelup | round}}xp
