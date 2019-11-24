@@ -16,9 +16,12 @@ To the patron who sponsors your airship, you are just one more bet in a long led
 
 ### Schedule
 
-* Tuesday, 12 November
-* Tuesday, 19 November
 * Tuesday, 26 November
+* Tuesday, 3 December?
+* Tuesday, 10 December
+* Tuesday, 17 December
+* Some special holiday event maybe?
+* ... Tuesday, 7 January?
 
 ### Party Level {{page.level}}
 {{page.xp}} / {{page.levelup | round}}xp
