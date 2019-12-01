@@ -16,8 +16,7 @@ To the patron who sponsors your airship, you are just one more bet in a long led
 
 ### Schedule
 
-* Tuesday, 26 November
-* Tuesday, 3 December?
+* Tuesday, 3 December
 * Tuesday, 10 December
 * Tuesday, 17 December
 * Some special holiday event maybe?
