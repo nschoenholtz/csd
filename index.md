@@ -16,9 +16,7 @@ To the patron who sponsors your airship, you are just one more bet in a long led
 
 ### Schedule
 
-* Tuesday, 3 December
-* Tuesday, 10 December
-* Tuesday, 17 December
+* Tuesday, 17 December, last game of 2019!
 * Some special holiday event maybe?
 * ... Tuesday, 7 January?
 
