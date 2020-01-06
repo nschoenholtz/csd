@@ -16,9 +16,10 @@ To the patron who sponsors your airship, you are just one more bet in a long led
 
 ### Schedule
 
-* Tuesday, 17 December, last game of 2019!
-* Some special holiday event maybe?
-* ... Tuesday, 7 January?
+* Tuesday, 7 January
+* Tuesday, 14 January
+* Tuesday, 21 January
+* Tuesday, 28 January
 
 ### Party Level {{page.level}}
 {{page.xp}} / {{page.levelup | round}}xp
