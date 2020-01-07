@@ -1,7 +1,7 @@
 ---
 title: Home
 level: 6
-xp: 20800
+xp: 22000
 start: 14000.00
 levelup: 23000.00
 ---
