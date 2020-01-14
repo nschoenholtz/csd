@@ -1,9 +1,9 @@
 ---
 title: Home
-level: 6
-xp: 22000
-start: 14000.00
-levelup: 23000.00
+level: 7
+xp: 23200
+start: 23000.00
+levelup: 34000.00
 ---
 
 ## Introduction
@@ -16,7 +16,6 @@ To the patron who sponsors your airship, you are just one more bet in a long led
 
 ### Schedule
 
-* Tuesday, 14 January
 * Tuesday, 21 January
 * Tuesday, 28 January
 
