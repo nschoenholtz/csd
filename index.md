@@ -16,7 +16,6 @@ To the patron who sponsors your airship, you are just one more bet in a long led
 
 ### Schedule
 
-* Tuesday, 7 January
 * Tuesday, 14 January
 * Tuesday, 21 January
 * Tuesday, 28 January
