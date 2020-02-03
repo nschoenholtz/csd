@@ -16,8 +16,10 @@ To the patron who sponsors your airship, you are just one more bet in a long led
 
 ### Schedule
 
-* Tuesday, 21 January
-* Tuesday, 28 January
+* Tuesday, 4 February
+* Tuesday, 11 February
+* Tuesday, 18 February
+* Tuesday, 25 February
 
 ### Party Level {{page.level}}
 {{page.xp}} / {{page.levelup | round}}xp
