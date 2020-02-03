@@ -9,13 +9,14 @@ The Major Houses of the merchant families are the closest Aynuk has to nobility.
 
 ### Houses Major
 
-* Kiwa
-* X
-* X
-* X
-* x 
+* Kiwa: Green Heron on White
+* Dimarq: Yellow Nine-Tailed Fox on Red
+* Mara: Black Sun on Grey
+* Leucia: Blue Sky Whale on Yellow
+* Niset: Silver Moon on Black
 
 ### Notable minor houses
 
 * Moreau
-* x
+* Zeno
+* ...
