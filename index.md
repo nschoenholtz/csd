@@ -1,7 +1,7 @@
 ---
 title: Home
 level: 7
-xp: 29000
+xp: 33000
 start: 24200.00
 levelup: 34000.00
 ---
