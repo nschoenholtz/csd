@@ -1,8 +1,8 @@
 ---
 title: Home
 level: 8
-xp: 48000
-start: 48000.00
+xp: 34000
+start: 34000.00
 levelup: 48000.00
 ---
 
