@@ -4,6 +4,26 @@ level: 8
 xp: 45400
 start: 34000.00
 levelup: 48000.00
+level_1: 0
+level_2: 300
+level_3: 900
+level_4: 2,700
+level_5: 6,500
+level_6: 14,000
+level_7: 23,000
+level_8: 34,000
+level_9: 48,000
+level_10: 64,000
+level_11: 85,000
+level_12: 100,000
+level_13: 120,000
+level_14: 140,000
+level_15: 165,000
+level_16: 195,000
+level_17: 225,000
+level_18: 265,000
+level_19: 305,000
+level_20: 355,000
 ---
 
 ## Introduction
