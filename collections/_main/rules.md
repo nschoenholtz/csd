@@ -6,9 +6,9 @@ title: Rules
 
 ### Experience
 
-At the beginning of each session, we'll answer the following questions for each character, adding 200xp for each one answered positively. Before level 4, each question may be counted only once, a maximum of 800xp per session. Thereafter, each question can be counted twice, a maximum of 1600xp per session. We'll take the average XP gained and add the sum to the group's total, which is tracked on the homepage.
+At the beginning of each session, we'll choose one character who hasn't been spotlighted recently and answer the following questions for them as a group. Each answer is worth 500xp. We'll also ask one bonus question, something more freeform, which is always rewarded 600xp regardless of the answer.
 
-Each of these XP triggers may be based either on things that happened on-screen in the previous session or on newly imagined things that _could_ have happened. I'm either case, they should help recap the events of the previous session and provide some insight into the character. For example, you might illustrate how a character's behaviour in a scene was informed by (or affected!) their background. Or you might describe a new scene in which your character had a discussion with an NPC and achieved a goal or expressed their heritage -- it just needs to be logically consistent with the existing fiction, not necessarily something that we all played out together at the table.
+Each of these XP triggers may be based either on things that happened on-screen in the previous session or on newly imagined things that _could_ have happened. In either case, they should help recap the events of the previous session and provide some insight into the character. For example, we might illustrate how a character's behaviour in a scene was informed by (or affected!) their background. Or we might describe a new scene in which the character had a discussion with an NPC and achieved a goal or expressed their heritage -- it just needs to be logically consistent with the existing fiction, not necessarily something that we all played out together at the table.
 
 * **Goals**: Did you achieve one of the group's or your own stated goals?
 * **Heritage**: Did you express a unique aspect of your Class, Race, or Background?
