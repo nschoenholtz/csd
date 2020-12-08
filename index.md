@@ -1,9 +1,9 @@
 ---
 title: Home
 level: 9
-xp: 61100
-start: 48000.00
-levelup: 64000.00
+xp: 64000
+start: 64000.00
+levelup: 85000.00
 level_1: 0
 level_2: 300
 level_3: 900
